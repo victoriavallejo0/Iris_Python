@@ -1,6 +1,8 @@
 # Python Iris Classifier
 Rodriguez Larreta, Martinez Casas & Vallejo Garnica
 
+PPT: https://docs.google.com/presentation/d/1sd_1YP29fE5VJ_ufcsjip9F8PDjS06ay_aNamXHnzi4/edit?usp=sharing
+
 Description
 The Python Iris Classifier is a project that aims to classify iris flowers into different species based on their sepal and petal measurements. The project utilizes a logistic regression model to make predictions on new iris samples.
 
