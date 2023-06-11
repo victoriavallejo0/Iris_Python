@@ -27,7 +27,7 @@ To run the Python Iris Classifier project, follow these steps:
 1. Clone the project repository from GitHub.
 2. Install the required libraries by running the following command: `pip install -r requirements.txt`.
 3. Make sure you have Python installed on your machine.
-4. Run the Python script `iris_classifier.py` to launch the GUI.
+4. Run the Python script `Iris_Python.ipynb` to launch the GUI.
 
 Usage
 1. Launch the GUI by running the `Iris_Python.ipynb` script.
