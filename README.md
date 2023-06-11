@@ -30,9 +30,13 @@ To run the Python Iris Classifier project, follow these steps:
 
 Usage
 1. Launch the GUI by running the `iris_classifier.py` script.
-2. Enter the sepal and petal measurements of an iris flower.
-3. Click the "Predict Iris" button to classify the iris species.
-4. The predicted species will be displayed in the GUI, along with an image representing the predicted species.
+2. Enter the sepal and petal measurements of an iris flower
+  - Sepal Length (cm)
+  - Sepal Width (cm)
+  - Petal Length (cm)
+  - Petal Width (cm)
+4. Click the "Predict Iris" button to classify the iris species.
+5. The predicted species will be displayed in the GUI, along with an image representing the predicted species.
 
 Credits
 The Python Iris Classifier project was developed by Victoria Vallejo, Paloma Rodriguez Larreta and Carmela Martinez Casas. We would like to acknowledge the following resources:
