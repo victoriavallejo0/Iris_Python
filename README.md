@@ -30,7 +30,7 @@ To run the Python Iris Classifier project, follow these steps:
 4. Run the Python script `iris_classifier.py` to launch the GUI.
 
 Usage
-1. Launch the GUI by running the `iris_classifier.py` script.
+1. Launch the GUI by running the `Iris_Python.ipynb` script.
 2. Enter the sepal and petal measurements of an iris flower
   - Sepal Length (cm)
   - Sepal Width (cm)
